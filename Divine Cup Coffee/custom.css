@@ -1,0 +1,48 @@
+/*
+    Color Palette
+    coffee & cream: #A2825C
+    rich cappuccino: #8E5B3E
+    vanilla cream: #FCFBE3
+    coffee light: #BEA586
+    strong coffee: #674941
+*/
+
+body {
+    background-color: #ede6de;
+    font-family: 'Lato', sans-serif;
+}
+
+#cover_image {
+    width: 100%;
+    overflow: hidden;
+    margin-top: -175px;
+}
+
+#social_icon_container {
+    padding-top: 3px;
+    margin-left: 475px;
+}
+
+#social_icon {
+    padding-right: 10px;
+    -moz-transition: color 0.15s;
+}
+
+#social_icon:hover {
+    
+    color: #8E5B3E;
+}
+
+#jumbotron_quote {
+    margin-left: 25px; 
+    font-family: 'Lato', sans-serif;
+}
+
+.navbar {
+    background-color: #bea586;
+}
+
+.jumbotron {
+    position: absolute;
+    background: none;
+}
